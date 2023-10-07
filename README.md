@@ -1,3 +1,2 @@
 # Notes on QMBP
-Research interests in 
-Practice the simulation of quantum many body physics.
+Literature review and research interests in the growing document [`DL_note.pdf`](https://github.com/JSKao/ML_Phys/blob/master/DL_note.pdf). 
