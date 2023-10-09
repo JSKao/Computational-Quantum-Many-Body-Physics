@@ -3,4 +3,4 @@ Literature review and research interests are in the growing document [`NonEquili
 
 Tensor network and quantum circuits note is in [`TensorNetwork_Topology.ipynb`].
 
-Pactice numerical simulations of quantum many body physics.
+Pactice numerical simulations of quantum many body physics [`Few-spin system`]
