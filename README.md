@@ -3,5 +3,5 @@ Non-equilibrium quantum many body physics in the growing document [`NonEquilibri
 
 Machine learning quantum circuits in the growing document [`ML_QC.ipynb`] 
 
-Pactice entanglement and topology of quantum many body physics [`Entanglement_Topo`](https://github.com/JSKao/Computational-Quantum-Many-Body-Physics/blob/main/Entanglement_Topo.ipynb)
+Pactice entanglement and topology of quantum many body physics [`Entanglement_Topology`](https://github.com/JSKao/Computational-Quantum-Many-Body-Physics/blob/main/Entanglement_Topology.ipynb)
 
