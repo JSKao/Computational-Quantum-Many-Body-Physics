@@ -1,4 +1,4 @@
-# Notes and reference for research topics
+# Notes and References for Research Topics
 Non-equilibrium quantum many body physics in the growing document [`NonEquilibrium_Quantum.ipynb`](https://github.com/JSKao/Computational-Quantum-Many-Body-Physics/blob/main/NonEquilibrium_Quantum.ipynb). 
 
 Machine learning quantum circuits in the growing document [`ML_QC.ipynb`] 
