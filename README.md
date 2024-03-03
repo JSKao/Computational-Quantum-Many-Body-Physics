@@ -9,4 +9,4 @@ Pactice entanglement and topology of quantum many body physics in [`Entanglement
 
 Open quantum systems in [`OpenQuantumNEW.ipynb`](https://github.com/JSKao/Notes_and_References/blob/main/OpenQuantumNEW.ipynb).
 
-Quantum Jump Monte Carlo applied to model systems in [`QJMC.ipynb`](https://github.com/JSKao/Notes_and_References/blob/main/QJMC.ipynb).
+Quantum Jump method applied to model systems in [`QJMC.ipynb`](https://github.com/JSKao/Notes_and_References/blob/main/QJMC.ipynb).
