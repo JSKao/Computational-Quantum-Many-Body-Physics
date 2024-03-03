@@ -1,4 +1,4 @@
-# Notes and References for Research Topics
+# Research notes
 
 Notes and literature collections for some research directions, continuously being organized and expanded:
 
