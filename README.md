@@ -1,6 +1,6 @@
 My [`master thesis`](https://github.com/JSKao/Notes_and_References/blob/main/master_thesis_Kao.pdf) on SU(N) Fermi Liquids 
 
-Notes and literature collections for some research directions:
+# Notes and literature collections for some research directions:
 
 proposals on quantum dynamics
 proposals on machine learning physics
