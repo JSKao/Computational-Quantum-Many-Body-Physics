@@ -3,6 +3,7 @@ My [`master thesis`](https://github.com/JSKao/Notes_and_References/blob/main/mas
 # Notes and literature collections for some research directions:
 
 proposals on quantum dynamics
+
 proposals on machine learning physics
 
 Non-equilibrium quantum many body physics in [`Non_equilibrium.ipynb`](https://github.com/JSKao/Computational-Quantum-Many-Body-Physics/blob/main/Non_equilibrium.ipynb). 
