@@ -6,7 +6,7 @@ proposals on quantum dynamics
 
 proposals on machine learning physics
 
-Non-equilibrium quantum many body physics in [`Non_equilibrium.ipynb`](https://github.com/JSKao/Computational-Quantum-Many-Body-Physics/blob/main/Non_equilibrium.ipynb). 
+[Notes on non-equilibrium quantum many body physics](https://github.com/JSKao/Computational-Quantum-Many-Body-Physics/blob/main/Non_equilibrium.ipynb). 
 
 
 Pactice entanglement and topology of quantum many body physics in [`Entanglement_Topology`](https://github.com/JSKao/Computational-Quantum-Many-Body-Physics/blob/main/Entanglement_Topology.ipynb)
