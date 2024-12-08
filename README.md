@@ -1,4 +1,4 @@
-My [`master thesis`]([https://github.com/JSKao/Computational-Quantum-Many-Body-Physics/blob/main/Non_equilibrium.ipynb](https://github.com/JSKao/Notes_and_References/blob/main/master_thesis_Kao.pdf)) on SU(N) Fermi Liquids 
+My [`master thesis`]([https://github.com/JSKao/Notes_and_References/blob/main/master_thesis_Kao.pdf] on SU(N) Fermi Liquids 
 
 # Research notes
 
